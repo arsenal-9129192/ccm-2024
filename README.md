@@ -1,4 +1,4 @@
-# Microbial Fuel Cells: Microbial Community Diversity Analysis
+# Microbial communities diversity analysis in microbial fuel cells
 
 ## Overview
 Study analyzing 227 samples from 30 MFC experiments using 16S rRNA amplicon sequencing to understand microbial community composition, functional pathways, and performance in wastewater treatment and bioenergy generation.
