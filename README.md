@@ -8,7 +8,7 @@ Study analyzing 227 samples from 30 MFC experiments using 16S rRNA amplicon sequ
 - Key electroactive genera: Geobacter (1.10%), Proteiniphilum (0.84%) overall
 - Exclusive specialized metabolic pathways in different effluent conditions
 - Complex microbial interactions in bioelectrochemical systems
-- 
+  
 ## Limitations
 - Sequencing depth:
 
