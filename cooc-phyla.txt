@@ -1,0 +1,5 @@
+Bacillota_I
+Bacteroidota
+Planctomycetota
+Pseudomonadota
+__
