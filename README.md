@@ -13,7 +13,7 @@ Study analyzing 227 samples from 30 MFC experiments using 16S rRNA amplicon sequ
 - Fluctuations in sequencing depths among samples, leading to significant differences in feature coverage;
 - Rarefaction removed large amounts of data but retained the maximum possible features for as many samples as possible;
 - The analysis lacks sufficient sensitivity to correlate specific microbial communities with many operational conditions.
-- 
+
 ## Data processing
 - Tools: QIIME2, PICRUSt2, SCNIC, BIOM, matplotlib, seaborn, re, pandas, numpy, font_manager, mpol_toolkits.mplot3d, random, sklearn, tidyverse
 - Taxonomic classification:
