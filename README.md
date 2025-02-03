@@ -1,7 +1,7 @@
 # Microbial communities diversity analysis in microbial fuel cells
 
 ## Overview
-Study analyzing 227 samples from 30 MFC experiments using 16S rRNA amplicon sequencing to understand microbial community composition, functional pathways, and performance in wastewater treatment and bioenergy generation.
+Microbial fuel cells (MFCs) provide a sustainable solution for wastewater treatment and renewable energy generation, but their efficiency is highly dependent on microbial community composition, which varies considerably across effluent types and operational conditions. In this study, sequencing libraries of 16S rRNA amplicons were obtained from 227 samples across 30 published MFC studies. These libraries were processed using the QIIME2 v2025.5.1 amplicon data analysis pipeline to perform taxonomic classification, evaluate microbial diversity metrics, and infer functional pathway associations. 
 
 ## Key findings
 - Dominant phyla: _Pseudomonadota_ (13.45%), _Bacteroidota_ (9.88%);
