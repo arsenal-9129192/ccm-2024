@@ -20,5 +20,10 @@ Microbial fuel cells (MFCs) provide a sustainable solution for wastewater treatm
   * Initial: Silva classifier
   * Final: Greengenes2 2024.09 classifier
 
-## Repository Access
+## Repository access and stats
 https://github.com/jvtarss/ccm-2024
+  <!-- Repo Card -->
+  <a href="https://github.com/jvtarss/nome-do-repositorio">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=jvtarss&repo=nome-do-repositorio&bg_color=00000000&hide_border=true&theme=transparent&card_width=300&text_color=ffffff&title_color=ffffff" />
+  </a>
+
