@@ -16,9 +16,7 @@ Microbial fuel cells (MFCs) provide a sustainable solution for wastewater treatm
 
 ## Data processing
 - Tools: QIIME2 2024.5.1, PICRUSt2 v2.5.3, SCNIC v0.6.6, biom-format v2.1.15, matplotlib v3.8.4, seaborn v0.12.2, re (built-in), pandas v2.2.2, numpy v1.26.4, font_manager v0.1.0, sklearn v1.4.2 
-- Taxonomic classification:
-  * Initial: Silva classifier
-  * Final: Greengenes2 2024.09 classifier
+- Taxonomic classification with Greengenes2 2024.09 classifier
 
 ## Repository access
 https://github.com/jvtarss/ccm-2024
