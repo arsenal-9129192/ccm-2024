@@ -35,7 +35,7 @@ qiime feature-table merge-seqs \
   --i-data paired-rep-seqs.qza \
   --i-data single-rep-seqs.qza \
   --o-merged-data merged-rep-seqs.qza
-
+#merge
 qiime feature-table summarize \
   --i-table merged-table.qza \
   --o-visualization merged-table.qzv \
